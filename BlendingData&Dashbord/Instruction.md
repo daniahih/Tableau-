@@ -1,6 +1,6 @@
 
 
-**Assignment: H&M Sales Data Analysis with Advanced Tableau Techniques**
+**H&M Sales Data Analysis with Advanced Tableau Techniques**
 
 **Objective:** Leverage the advanced features of Tableau covered in Section 5 to analyze the provided H&M sales data. You will be applying data blending, creating dual-axis charts, and formulating calculated fields to gain deeper insights into the sales performance.
 
